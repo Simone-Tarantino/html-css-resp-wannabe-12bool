@@ -1,9 +1,9 @@
 body {
-  margin-top: 100px;
+  margin: 100px 0 30px;
 }
 
 h2 {
-  text-align: center;
+  font-size: 33px;
 }
 
 img {
@@ -14,6 +14,24 @@ img {
   text-align: center;
 }
 
-.title-margin {
+.maintitle-margin {
+  margin-bottom: 20px;
+}
+
+.subtitle-margin {
   margin: 15px 0;
+}
+
+.top-margin {
+  margin-top: 100px;
+}
+
+.div-background {
+  background-color: #F9F9F9;
+}
+
+.img-background {
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px;
 }
