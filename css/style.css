@@ -1,0 +1,19 @@
+body {
+  margin-top: 100px;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  height: 200px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.title-margin {
+  margin: 15px 0;
+}

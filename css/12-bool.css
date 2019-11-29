@@ -1,9 +1,11 @@
 /* debug */
 
-.debug .container [class*="col-"] {
+.debug [class*="col-"] {
   border: 1px solid black;
   height: 200px;
 }
+
+
 
 /* framework / regole generali*/
 
